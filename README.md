@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Ikram
 
-![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
 I'm a **Full-Stack Developer** passionate about **React** & **Laravel**.  
 I love building **interactive web apps** and learning new tech every day! 🚀
 
