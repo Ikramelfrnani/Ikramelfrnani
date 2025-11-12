@@ -31,15 +31,7 @@
 ---
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikramelfrnani&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramelfrnani&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### Contributions & Activity
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ikramelfrnani&theme=tokyonight&hide_border=true)
-
-![Contribution Snake](https://raw.githubusercontent.com/ikramelfrnani/ikramelfrnani/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -48,6 +40,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikram-el-frnani-9314a2201)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ikramelfrnani)
 
----
-
-*"Code with clarity. Build with purpose."*
