@@ -1,8 +1,6 @@
 <!-- HEADER -->
 ![Ikram El Frnani - Full Stack Developer](github-banner.png)
 
-**Portfolio:** [https://ikramelfrnani.vercel.app](https://ikramelfrnani.vercel.app)
-
 ---
 
 ### About Me
