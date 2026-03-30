@@ -1,5 +1,4 @@
-<!-- HEADER -->
-![Ikram El Frnani - Full Stack Developer](github-banner.png)
+
 
 ---
 ### Tech Stack
